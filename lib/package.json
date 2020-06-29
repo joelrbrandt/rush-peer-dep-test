@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "peerDependencies": {
-    "eslint": "*"
+  "dependencies": {
+    "eslint": "^7.2.0"
   }
 }
